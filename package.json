@@ -1,0 +1,19 @@
+{
+  "name": "react-native-motion-slider",
+  "version": "1.0.0",
+  "description": "High-quality slider with a stunning UI / UX.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorCodes/react-native-motion-slider.git"
+  },
+  "author": "Vitor Silva <vitorcodes@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/VitorCodes/react-native-motion-slider/issues"
+  },
+  "homepage": "https://github.com/VitorCodes/react-native-motion-slider#readme"
+}
