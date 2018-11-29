@@ -11,6 +11,7 @@ React Native Motion Slider is a high-quality slider with a stunning UI / UX.
 npm install react-native-motion-slider --save
 ```   
 
+
 ## Usage
 
 ```javascript
