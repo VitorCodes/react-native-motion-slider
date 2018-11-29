@@ -3,14 +3,13 @@
 A JavaScript slider component for React Native (iOS and Android).  
 React Native Motion Slider is a high-quality slider with a stunning UI / UX.
 
-![Alt Text](./demo.gif)
-  
+![demo](./demo.gif)
+
 ## Installation
 
 ```bash
-npm install react-navigation --save
-```
-
+npm install react-native-motion-slider --save
+```   
 
 ## Usage
 
@@ -74,3 +73,6 @@ import MotionSlider from 'react-native-motion-slider';
 
 *  [Virgil Pana](https://dribbble.com/shots/3868232-ios-Fluid-Slider-ui-ux), who designed the concept and inspired me to create this component. I recommend checking his works.  
   
+## License
+
+MIT.  

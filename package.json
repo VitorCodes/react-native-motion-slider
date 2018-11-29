@@ -1,6 +1,6 @@
 {
   "name": "react-native-motion-slider",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "High-quality slider with a stunning UI / UX.",
   "main": "src/index.js",
   "scripts": {
@@ -10,8 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/VitorCodes/react-native-motion-slider.git"
   },
+  "keywords": [
+    "react native",
+    "slider",
+    "fluid",
+    "awesome",
+    "animated",
+    "motion",
+    "multi color",
+    "component"
+  ],
   "author": "Vitor Silva <vitorcodes@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VitorCodes/react-native-motion-slider/issues"
   },
