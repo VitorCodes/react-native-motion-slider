@@ -159,7 +159,7 @@ class Slider extends Component {
 			outputRange: backgroundColor
 		};
 
-		let currentRange = 0;
+		let currentRange = min;
 		let middleRanges = [];
 
 		for(var i = 0; i < backgroundColor.length - 2; i++) {
